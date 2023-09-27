@@ -1,0 +1,23 @@
+h1 {
+    font-weight: bolder;
+    font-family: helvetica;
+    text-align: center;
+    font-size: 45px;
+    text-underline-offset: auto;
+}
+li {
+    text-align: center;
+    margin: 32px;
+    color: rgb(50, 54, 54);
+}
+
+h1 {
+    display: block;
+    background-color: aquamarine;
+    margin: auto;
+}
+a {
+    color: rgb(153, 139, 139);
+    padding: 8px;
+    font-size: 32px;
+}
